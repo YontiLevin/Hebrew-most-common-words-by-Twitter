@@ -1,0 +1,207 @@
+# I -- אני
+# (you (singular -- את, אתה
+# he -- הוא
+# we -- אנחנו, אנו
+# (you (plural-- אתם, אתן
+# they -- הם, הן
+# this -- זה, זאת, זו
+# that -- זה, זאת, זו, ההוא, ההיא
+# here -- פה, כאן
+# there -- שם
+# who -- מי
+# what -- מה
+# where -- איפה, היכן
+# when -- מתי
+# how -- איך, כיצד
+# not -- לא
+# all -- הכול, כל
+# many -- הרבה
+# some -- קצת, מעט, כמה
+# few -- כמה, מספר
+# other -- אחר
+# one -- אחד, אחת
+# two -- שתיים, שניים
+# three -- שלוש, שלוש
+# four -- ארבע, ארבעה
+# five -- חמש, חמישה
+# big -- גדול
+# long -- ארוך
+# wide -- רחב
+# thick -- עבה
+# heavy -- כבד
+# small -- קטן
+# short -- קצר
+# narrow -- צר
+# thin -- רזה
+# woman -- אישה
+# man (adult male) -- גבר
+# man (human being) -- איש, אדם
+# child -- ילד, ילדה
+# wife -- אישה
+# husband -- בעל
+# mother -- אמא, אם
+# father -- אבא, אב
+# animal -- חיה, בעל חיים
+# fish -- דג
+# bird -- ציפור
+# dog -- כלב
+# louse -- כינה
+# snake -- נחש
+# worm -- תולעת
+# tree -- עץ
+# forest -- יער
+# stick -- מקל
+# fruit -- פרי
+# seed -- זרע
+# leaf -- עלה
+# root -- שורש
+# bark -- נביחה
+# flower -- פרח
+# grass -- עשב
+# rope -- חבל
+# skin -- עור
+# meat -- בשר
+# blood -- דם
+# bone -- עצם
+# fat -- שומן
+# egg -- ביצה
+# horn -- קרן
+# tail -- זנב
+# feather -- נוצה
+# hair -- שיער
+# head -- ראש
+# ear -- אוזן
+# eye -- עין
+# nose -- אף
+# mouth -- פה
+# tooth -- שן
+# tongue -- לשון
+# fingernail -- ציפורן
+# foot -- כף רגל
+# leg -- רגל
+# knee -- ברך
+# hand -- יד
+# wing -- כנף
+# belly -- בטן
+# guts -- מעיים
+# neck -- צוואר
+# back -- גב
+# breast -- חזה
+# heart -- לב
+# liver -- כבד
+# drink -- לשתות
+# eat -- לאכול
+# bite -- לנגוס, לקחת ביס, לנשוך
+# suck -- למצוץ, לינוק
+# spit -- לירוק
+# vomit -- להקיא
+# blow -- לנשוף
+# breathe -- לנשום
+# laugh -- לצחוק
+# see -- לראות
+# hear -- לשמוע
+# know -- לדעת
+# think -- לחשוב
+# smell -- להריח
+# fear -- לפחד, לפחוד
+# sleep -- לישון
+# live -- לחיות
+# die -- למות
+# kill -- להרוג
+# fight -- לריב
+# hunt -- לצוד
+# hit -- לפגוע, להכות
+# cut -- לחתוך
+# split -- לחלק, לפצל
+# stab -- לדקור
+# scratch -- לגרד
+# dig -- לחפור
+# swim -- לשחות
+# fly -- לעוף
+# walk -- ללכת
+# come -- לבוא
+# lie -- לשכב
+# sit -- לשבת
+# stand -- לעמוד
+# turn -- להסתובב, לפנות
+# fall -- ליפול
+# give -- לתת
+# hold -- להחזיק
+# squeeze -- ללחוץ
+# rub -- לשפשף
+# wash -- לשטוף
+# wipe -- לנגב
+# pull -- למשוך
+# push -- לדחוף
+# throw -- לזרוק
+# tie -- לקשור
+# sew -- לתפור
+# count -- לספור
+# say -- להגיד, לומר
+# sing -- לשיר
+# play -- לשחק
+# float -- לצוף
+# flow -- לזרום
+# freeze -- לקפוא, להקפיא
+# swell -- לבלוע
+# sun -- שמש
+# moon -- ירח
+# star -- כוכב
+# water -- מים
+# rain -- גשם
+# river -- נהר
+# lake -- אגם
+# sea -- ים
+# salt -- מלח
+# stone -- אבן
+# sand -- חול
+# dust -- אבק
+# earth -- אדמה
+# cloud -- ענן
+# fog -- ערפל
+# sky -- שמיים
+# wind -- רוח
+# snow -- שלג
+# ice -- קרח
+# smoke -- עשן
+# fire -- אש
+# ashes -- אפר
+# burn -- כווייה
+# road -- דרך
+# mountain -- הר
+# red -- אדום
+# green -- ירוק
+# yellow -- צהוב
+# white -- לבן
+# black -- שחור
+# night -- לילה
+# day -- יום
+# year -- שנה
+# warm -- חם, חמים
+# cold -- קר
+# full -- מלא
+# new -- חדש
+# old -- ישן
+# good -- טוב
+# bad -- רע
+# rotten -- רקוב
+# dirty -- מלוכלך
+# straight -- ישר
+# round -- עגול, מעוגל
+# sharp -- חד
+# dull -- קהה
+# smooth -- חלק
+# wet -- רטוב
+# dry -- יבש
+# correct -- נכון
+# near -- קרוב
+# far -- רחוק
+# right -- ימין
+# left -- שמאל
+# at -- ב-, נמצא ב-
+# in -- ב-, בתוך
+# with -- עם
+# and -- ו-
+# if -- אם
+# because -- בגלל, מכיוון, כי
+# name -- שם
